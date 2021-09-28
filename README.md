@@ -1,2 +1,2 @@
 # RiboRambler
-ribo-seq sequencing data analysis pipeline
+ribo-seq data analysis pipeline
